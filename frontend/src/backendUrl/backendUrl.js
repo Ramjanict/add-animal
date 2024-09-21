@@ -1,4 +1,4 @@
-const backendUrl = "http://localhost:8080";
+const backendUrl = "https://animal-nu-flax.vercel.app";
 
 const Apisummary = {
   upload: {
